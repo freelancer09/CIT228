@@ -1,0 +1,16 @@
+print("---------- Exercise 3-10 ----------")
+cities=["Detroit","Boston","New York City","Washington DC","Seattle","Los Angeles"]
+print(f"Original list: {cities}")
+cities.append("Houston")
+cities.insert(3,"Tampa Bay")
+print(f"List after append and insert: {cities}")
+del cities[3]
+cities.pop()
+cities.remove("New York City")
+print(f"List after del, pop and remove: {cities}")
+print("List after sorted: ",sorted(cities))
+cities.reverse()
+print(f"List after reverse: {cities}")
+cities.sort()
+print(f"List after sort: {cities}")
+print("There are",len(cities),"cities in the list.")
