@@ -1,0 +1,33 @@
+number1 = 10
+number2 = 20
+cities=["Detroit","Grand Rapids","Traverse City"]
+
+print("---------- True Results ----------")
+print("10 == 10",10 == 10)
+print("10 != 20",10 != 20)
+print("10 < 20", 10 < 20)
+print("10 <= 20", 10 <= 20)
+print("30 > 20",30 > 20)
+print("30 >= 20",30 >= 20)
+print("Orange == Orange","Orange" == "Orange")
+print("Orange != orange", "Orange" != "orange")
+print("ORANGE.lower == orange","ORANGE".lower() == "orange")
+print("number1 == 10 AND number2 == 20",number1 == 10 and number2 == 20)
+print("number1 == 10 OR number2 == 10",number1 == 10 or number2 == 10)
+print("Detroit in cities list","Detroit" in cities)
+print("Lansing not in cities list","Lansing" not in cities)
+
+print("---------- False Results ----------")
+print("10 == 20",10 == 20)
+print("10 != 10",10 != 10)
+print("20 < 10",20 < 10)
+print("20 <= 10",20 <= 10)
+print("10 > 20",10 > 20)
+print("10 >= 20",10 >= 20)
+print("Orange != Orange", "Orange" != "Orange")
+print("Orange == ORANGE","Orange" == "ORANGE")
+print("ORANGE.lower == ORANGE","ORANGE".lower() == "ORANGE")
+print("number1 == 10 AND number2 == 10",number1 == 10 and number2 == 10)
+print("number1 == 20 OR number2 == 10",number1 == 20 or number2 == 10)
+print("Lansing in cities list","Lansing" in cities)
+print("Detroit not in cities list","Detroit" not in cities)
