@@ -13,7 +13,7 @@ print("There are ", daysToWeekend-1, " days until the weekend")
 # flag to only print 1 quote in for loop
 quotePrinted = "false"
 # prints week days left until weekend with a quote
-for left in weekDays[dayOfWeek:daysToWeekend]:
+for left in weekDays[dayOfWeek:6]:
     if today == "Sunday" and quotePrinted == "false":
         print(left, " Sunday is my funday!")
         quotePrinted = "true"
