@@ -1,0 +1,12 @@
+{
+    "Append": "Command used to add to the end of a list",
+    "Constant": "Value assigned to variables that do not change.",
+    "Del": "Command used to remove a key:value pair from the dictionary",
+    "Dictionary": "Python data type that stores key:value pairs",
+    "Insert": "Command used to add an item anywhere in a list",
+    "Key": "Value used to access data stored in the dictionary",
+    "List": "Python data type that stores multiple items under a single variable name",
+    "Pop": "Command used to remove the last item from a list and save the value removed",
+    "Syntax": "Rules you need to follow within a programing language",
+    "Variable": "Reserved memory locations to store values"
+}

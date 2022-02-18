@@ -1,0 +1,5 @@
+In Python you can use loops.
+In Python you can create lists.
+In Python you can use if statements.
+In Python you can read/write files.
+In Python you can create classes.
