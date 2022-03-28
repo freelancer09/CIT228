@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1648505659000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "62 km S of Hualien City, Taiwan",
+                "time": 1647970898951,
+                "updated": 1648392862087,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h6nr",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h6nr.geojson",
+                "felt": 153,
+                "cdi": 7.5,
+                "mmi": 7.159,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 805,
+                "net": "us",
+                "code": "6000h6nr",
+                "ids": ",at00r95qhb,pt22081001,us6000h6nr,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.672,
+                "rms": 0.9,
+                "gap": 35,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.7 - 62 km S of Hualien City, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5624,
+                    23.4117,
+                    24
+                ]
+            },
+            "id": "us6000h6nr"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "northern Mid-Atlantic Ridge",
+                "time": 1647966908019,
+                "updated": 1648481158692,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h6ne",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h6ne.geojson",
+                "felt": 1,
+                "cdi": 6.3,
+                "mmi": 0,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 691,
+                "net": "us",
+                "code": "6000h6ne",
+                "ids": ",us6000h6ne,at00r95nen,pt22081000,",
+                "sources": ",us,at,pt,",
+                "types": ",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 10.744,
+                "rms": 0.79,
+                "gap": 27,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.7 - northern Mid-Atlantic Ridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.382,
+                    10.7447,
+                    10
+                ]
+            },
+            "id": "us6000h6ne"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.54,
+                "place": "21 km SSE of Waimea, Hawaii",
+                "time": 1647797373380,
+                "updated": 1648326318996,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72956917",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv72956917.geojson",
+                "felt": 753,
+                "cdi": 4.5,
+                "mmi": 5.533,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 656,
+                "net": "hv",
+                "code": "72956917",
+                "ids": ",pt22079050,hv72956917,us6000h67k,",
+                "sources": ",pt,hv,us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": 56,
+                "dmin": null,
+                "rms": 0.11,
+                "gap": 117,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 4.5 - 21 km SSE of Waimea, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.5675,
+                    19.858,
+                    23.54
+                ]
+            },
+            "id": "hv72956917"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "south of the Fiji Islands",
+                "time": 1647725061328,
+                "updated": 1647811568321,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h62z",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h62z.geojson",
+                "felt": 1,
+                "cdi": 1,
+                "mmi": 0,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "us",
+                "code": "6000h62z",
+                "ids": ",us6000h62z,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 4.203,
+                "rms": 1.24,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - south of the Fiji Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -176.2115,
+                    -25.3272,
+                    21
+                ]
+            },
+            "id": "us6000h62z"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "59 km NNW of Bandar-e Lengeh, Iran",
+                "time": 1647472547273,
+                "updated": 1648170845007,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h58x",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h58x.geojson",
+                "felt": 64,
+                "cdi": 7.8,
+                "mmi": 7.03,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 700,
+                "net": "us",
+                "code": "6000h58x",
+                "ids": ",us6000h58x,",
+                "sources": ",us,",
+                "types": ",dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.531,
+                "rms": 0.83,
+                "gap": 33,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 59 km NNW of Bandar-e Lengeh, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.5777,
+                    27.0192,
+                    22
+                ]
+            },
+            "id": "us6000h58x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "57 km ENE of Namie, Japan",
+                "time": 1647441393264,
+                "updated": 1648393251726,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h519",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h519.geojson",
+                "felt": 430,
+                "cdi": 8.3,
+                "mmi": 8.008,
+                "alert": "orange",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1357,
+                "net": "us",
+                "code": "6000h519",
+                "ids": ",pt22075004,us6000h519,at00r8udwu,",
+                "sources": ",pt,us,at,",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.937,
+                "rms": 1,
+                "gap": 29,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.3 - 57 km ENE of Namie, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.587,
+                    37.7015,
+                    63.07
+                ]
+            },
+            "id": "us6000h519"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "165 km W of Pariaman, Indonesia",
+                "time": 1647205762257,
+                "updated": 1647837079270,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48e",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h48e.geojson",
+                "felt": 18,
+                "cdi": 5,
+                "mmi": 6.474,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 700,
+                "net": "us",
+                "code": "6000h48e",
+                "ids": ",us6000h48e,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.19,
+                "rms": 0.89,
+                "gap": 43,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.7 - 165 km W of Pariaman, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.6295,
+                    -0.6295,
+                    28
+                ]
+            },
+            "id": "us6000h48e"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "76 km WNW of Cabra, Philippines",
+                "time": 1647205549364,
+                "updated": 1647836580767,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48d",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h48d.geojson",
+                "felt": 107,
+                "cdi": 6.4,
+                "mmi": 4.282,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 699,
+                "net": "us",
+                "code": "6000h48d",
+                "ids": ",at00r8pc3j,pt22072000,us6000h48d,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 8.834,
+                "rms": 0.94,
+                "gap": 28,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - 76 km WNW of Cabra, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.373,
+                    14.0857,
+                    11
+                ]
+            },
+            "id": "us6000h48d"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "41 km WNW of Nikiski, Alaska",
+                "time": 1647115188801,
+                "updated": 1648498190510,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02239qtmiy",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02239qtmiy.geojson",
+                "felt": 554,
+                "cdi": 3.8,
+                "mmi": 3.734,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 611,
+                "net": "ak",
+                "code": "02239qtmiy",
+                "ids": ",at00r8ne7n,ak02239qtmiy,us6000h422,",
+                "sources": ",at,ak,us,",
+                "types": ",dyfi,impact-link,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.75,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 5.1 - 41 km WNW of Nikiski, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.0345,
+                    60.7797,
+                    88.4
+                ]
+            },
+            "id": "ak02239qtmiy"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "Kermadec Islands, New Zealand",
+                "time": 1646225527343,
+                "updated": 1647159003610,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h1d2",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h1d2.geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": 6.814,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 670,
+                "net": "us",
+                "code": "6000h1d2",
+                "ids": ",us6000h1d2,pt22061000,at00r84bqt,",
+                "sources": ",us,pt,at,",
+                "types": ",dyfi,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.828,
+                "rms": 0.67,
+                "gap": 46,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - Kermadec Islands, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.7277,
+                    -30.0757,
+                    24
+                ]
+            },
+            "id": "us6000h1d2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.98,
+                "place": "10km NW of Santa Paula, CA",
+                "time": 1645926258300,
+                "updated": 1648243238697,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40194736",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40194736.geojson",
+                "felt": 2095,
+                "cdi": 3.8,
+                "mmi": 4.06,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 624,
+                "net": "ci",
+                "code": "40194736",
+                "ids": ",ci40194736,at00r7xwtt,us6000h0fm,ew1645926260,",
+                "sources": ",ci,at,us,ew,",
+                "types": ",dyfi,focal-mechanism,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 129,
+                "dmin": 0.01636,
+                "rms": 0.32,
+                "gap": 18,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.0 - 10km NW of Santa Paula, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.132,
+                    34.4211667,
+                    19.66
+                ]
+            },
+            "id": "ci40194736"
+        }
+    ],
+    "bbox": [
+        -177.7277,
+        -30.0757,
+        10,
+        141.587,
+        60.7797,
+        88.4
+    ]
+}
